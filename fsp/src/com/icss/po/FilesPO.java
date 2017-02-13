@@ -2,7 +2,6 @@ package com.icss.po;
 
 import java.sql.Date;
 import java.sql.ResultSet;
-
 import com.icss.commons.RowMapper;
 
 public class FilesPO implements RowMapper<FilesPO>{
