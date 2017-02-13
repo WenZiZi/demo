@@ -4,11 +4,7 @@ import java.util.List;
 
 import com.icss.po.AccessRightPO;
 
-
-
 public  class AccessRightDAO extends DAOSupport<AccessRightPO>{
-
-
 
 @Override
 public void add(AccessRightPO vo) throws Exception {
