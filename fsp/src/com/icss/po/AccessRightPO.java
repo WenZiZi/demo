@@ -4,6 +4,11 @@ import java.sql.ResultSet;
 
 import com.icss.commons.RowMapper;
 
+/**
+ * 登录权限类
+ * @author Administrator
+ *
+ */
 public class AccessRightPO implements RowMapper<AccessRightPO>{
 
 	private int accessRightId;

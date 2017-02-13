@@ -4,6 +4,11 @@ import java.sql.Date;
 import java.sql.ResultSet;
 import com.icss.commons.RowMapper;
 
+/**
+ * 文件类
+ * @author Administrator
+ *
+ */
 public class FilesPO implements RowMapper<FilesPO>{
 
 	private String fileId;
