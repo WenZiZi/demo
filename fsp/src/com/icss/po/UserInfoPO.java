@@ -4,11 +4,6 @@ import java.sql.ResultSet;
 
 import com.icss.commons.RowMapper;
 
-/**
- * 用户信息类
- * @author Administrator
- *
- */
 public class UserInfoPO implements RowMapper<UserInfoPO> {
 
 	private int userId;

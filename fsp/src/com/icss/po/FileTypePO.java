@@ -3,11 +3,6 @@ package com.icss.po;
 import java.sql.ResultSet;
 import com.icss.commons.RowMapper;
 
-/**
- * 文件类型类
- * @author Administrator
- *
- */
 public class FileTypePO implements RowMapper<FileTypePO> {
 
 	private int fileTypeId;
