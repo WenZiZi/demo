@@ -3,7 +3,11 @@ package com.icss.po;
 import java.sql.ResultSet;
 
 import com.icss.commons.RowMapper;
-
+/**
+ * 
+ * @author Lydia
+ *
+ */
 public class AccessRightPO implements RowMapper<AccessRightPO>{
 
 	private int accessRightId;

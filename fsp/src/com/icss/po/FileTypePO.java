@@ -1,6 +1,7 @@
 package com.icss.po;
 
 import java.sql.ResultSet;
+
 import com.icss.commons.RowMapper;
 
 public class FileTypePO implements RowMapper<FileTypePO> {
